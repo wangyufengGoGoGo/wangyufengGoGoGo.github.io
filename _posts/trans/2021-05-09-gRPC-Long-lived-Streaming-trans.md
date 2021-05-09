@@ -9,9 +9,10 @@ header-style: text
 tags:
   - gRPC
   - 译文
+  - Golang
 ---
 
-![](../img/trans/grpc-1.png)
+![](./img/trans/grpc-1.png)
 
 ###### 预计阅读时间：13分钟
 
