@@ -1,4 +1,4 @@
-```
+---
 layout:     post
 title:      "gRPC长期流式传输【译】"
 subtitle:   "gRPC长期流式传输【译】"
@@ -9,7 +9,7 @@ header-style: text
 tags:
   - gRPC
   - 译文
-```
+---
 
 ![](./GoLangStudy/image/grpc-1.png)
 
