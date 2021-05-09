@@ -12,7 +12,7 @@ tags:
   - Golang
 ---
 
-![](./img/trans/grpc-1.png)
+![](https://github.com/wangyufengGoGoGo/GoLangStudy/blob/master/image/grpc-1.png)
 
 ###### 预计阅读时间：13分钟
 
