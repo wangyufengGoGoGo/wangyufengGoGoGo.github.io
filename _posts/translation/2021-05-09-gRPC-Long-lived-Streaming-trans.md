@@ -1,7 +1,7 @@
 ```
 layout:     post
-title:      "测试"
-subtitle:   "Test"
+title:      "gRPC长期流式传输【译】"
+subtitle:   "gRPC长期流式传输【译】"
 date:       2021-05-09 21:00:00
 author:     "PEAKBRO"
 catalog: false
@@ -11,9 +11,7 @@ tags:
   - 译文
 ```
 
-# gRPC长期流式传输【译】
-
-![](../image/grpc-1.png)
+![](./GoLangStudy/image/grpc-1.png)
 
 ###### 预计阅读时间：13分钟
 
