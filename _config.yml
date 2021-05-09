@@ -101,9 +101,9 @@ page-mathjax: false
 
 
 # Friends
-friends: [
+#friends: [
    # {
    #    title: "Sherry Woo",
    #    href: "https://sherrywoo.me/"
    # }
-]
+#]
