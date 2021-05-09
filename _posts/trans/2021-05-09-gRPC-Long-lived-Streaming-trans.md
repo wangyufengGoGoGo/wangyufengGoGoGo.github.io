@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "gRPC长期流式传输【译】"
-subtitle:   "gRPC长期流式传输【译】"
+subtitle:   "探讨一种实现gRPC长期流式传输的方法"
 date:       2021-05-09 21:00:00
 author:     "PEAKBRO"
 catalog: false
@@ -12,7 +12,7 @@ tags:
   - Golang
 ---
 
-![](https://github.com/wangyufengGoGoGo/GoLangStudy/blob/master/image/grpc-1.png)
+![](/img/trans/grpc-1.png)
 
 ###### 预计阅读时间：13分钟
 
@@ -57,7 +57,7 @@ tags:
 
 ​    为了使一切保持简单，并专注于如何使用gRPC，我们将创建一个由单个服务器和多个客户端组成的基本应用程序。 我选择与任意数量的10个客户端一起工作，但是正如您稍后将看到的，这很容易扩展：
 
-![](https://github.com/wangyufengGoGoGo/GoLangStudy/blob/master/image/grpc.png)
+![](/img/trans/grpc.png)
 
 ###  应用流程
 
@@ -68,7 +68,7 @@ tags:
 3. 服务器订阅客户端
 4. 服务器定期向客户端发送数据
 
-![](https://github.com/wangyufengGoGoGo/GoLangStudy/blob/master/image/grpc2.png)
+![](/img/trans/grpc2.png)
 
 一些注意事项：
 
