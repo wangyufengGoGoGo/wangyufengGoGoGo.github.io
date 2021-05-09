@@ -7,7 +7,8 @@ author:     "PEAKBRO"
 catalog: false
 header-style: text
 tags:
-  - 
+  - gRPC
+  - 译文
 ```
 
 # gRPC长期流式传输【译】
